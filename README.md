@@ -6,11 +6,7 @@
     "dacoconutchemist" on almost all social media(in rare cases "dacoconutnut")
 This is a regular paragraph.
 
-<table>
-    <tr>
-        <td>Foo</td>
-    </tr>
-</table>
+<iframe scrolling="no" src="https://playground.dacoconutnut.repl.co/githubprofileiframes/" style="border: 0px none; margin-left: -36px; height: 812px; margin-top: -486px; width: 650px;">
 
 This is another regular paragraph.
 <!---
