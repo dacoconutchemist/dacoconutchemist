@@ -6,7 +6,26 @@
     "dacoconutchemist" on almost all social media(in rare cases "dacoconutnut")
 This is a regular paragraph.
 
-<iframe scrolling="no" src="https://playground.dacoconutnut.repl.co/githubprofileiframes/" style="border: 0px none; margin-left: -36px; height: 812px; margin-top: -486px; width: 650px;"></iframe>
+<details>
+  <summary>test</summary>
+  <img src="https://picsum.photos/100/20" />
+</details>
+<details>
+  <summary>test</summary>
+  <img src="https://picsum.photos/100/20" />
+</details>
+<details>
+  <summary>test</summary>
+  <img src="https://picsum.photos/100/20" />
+</details>
+<details>
+  <summary>test</summary>
+  <img src="https://picsum.photos/100/20" />
+</details>
+<details>
+  <summary>test</summary>
+  <img src="https://picsum.photos/100/20" />
+</details>
 
 This is another regular paragraph.
 <!---
