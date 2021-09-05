@@ -1,3 +1,5 @@
+# Now look, I am experimenting with ideas for this README. Everything below is just me trying ideas
+
 - 👋 Hi, I’m @dacoconutchemist
 - 👀 I’m interested in Processing, Python
 - 🌱 I’m currently learning Python
